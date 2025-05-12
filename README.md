@@ -10,4 +10,5 @@ Base extraída via Power Automate
 ![image](https://github.com/user-attachments/assets/a61decb3-e02f-4233-86b5-41ec59c375f8)
 
 3- Criação de Fluxo de Dados no Power Bi Online e Conexão no Power Bi
+
 4 - Atualização agendada do Power Bi Online
